@@ -1,0 +1,12 @@
+name: material_color_utilities_issue
+description: An testcase for an issue in material_color_utilities
+version: 1.0.0
+
+environment:
+  sdk: '>=2.16.0 <3.0.0'
+
+dependencies:
+  material_color_utilities: ^0.2.0
+
+dev_dependencies:
+  test: ^1.16.0
